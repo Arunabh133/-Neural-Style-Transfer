@@ -9,7 +9,7 @@ Tensorflow Hub Library.
 <h2>Language:-</h2>
 Python
 
-<h2>Dependencies:-</h2>
+<b>Dependencies:-</b><br>
 <h3>You will need following dependencies downloaded:-</h3>
 1.Tensorflow<br>
 2.Tensorflow Hub<br>
