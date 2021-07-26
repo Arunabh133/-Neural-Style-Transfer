@@ -1,7 +1,7 @@
-# -Neural-Style-Transfer
+# Neural-Style-Transfer
 Tensorflow Hub Implementation of Neural Style Transfer
 
-<h1><b>Hello Everyone</b></h1>,
+<b>Hello Everyone</b>,
 
 This is a Tensorflow Hub Implementation of Neural Style Transfer using the Arbritary Image Style Transfer in the
 Tensorflow Hub Library.
@@ -16,5 +16,5 @@ Python
 3.OpenCV<br>
 4.Matplotlib<br>
 5.Numpy<br>
-
-You will not need CUDA or any fancy GPU as it is pre-trained
+<h3>GPU Requirement</h3>
+<br>You will not need CUDA or any fancy GPU as it is pre-trained
