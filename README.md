@@ -16,5 +16,5 @@ Python
 3.OpenCV<br>
 4.Matplotlib<br>
 5.Numpy<br>
-<h3>GPU Requirement</h3>
-<br>You will not need CUDA or any fancy GPU as it is pre-trained
+<h3>GPU Requirement:-</h3>
+You will not need CUDA or any fancy GPU as it is pre-trained
