@@ -11,10 +11,10 @@ Python
 
 <h2>Dependencies:-</h2>
 <h3>You will need following dependencies downloaded:-</h3>
-<h4>1.Tensorflow</h4>
-<h4>2.Tensorflow Hub</h4>
-<h4>3.OpenCV</h4>
-<h4>4.Matplotlib</h4>
-<h4>5.Numpy</h4>
+1.Tensorflow<br>
+2.Tensorflow Hub<br>
+3.OpenCV<br>
+4.Matplotlib<br>
+5.Numpy<br>
 
 You will not need CUDA or any fancy GPU as it is pre-trained
