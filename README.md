@@ -9,12 +9,12 @@ Tensorflow Hub Library.
 <h2>Language:-</h2>
 Python
 
-<h3>Dependencies:-</h3>
+<h2>Dependencies:-</h2>
 You will need following dependencies downloaded:-<br>
 1.Tensorflow<br>
 2.Tensorflow Hub<br>
 3.OpenCV<br>
 4.Matplotlib<br>
 5.Numpy<br>
-<h4>GPU Requirement:-</h4>
+<h2>GPU Requirement:-</h2><br>
 You will not need CUDA or any fancy GPU as it is pre-trained
